@@ -26,4 +26,4 @@ plt.plot(x,y)
 
 #mostrando/salvando o grafico
 plt.show()
-plt.savefig("graficos\populacao_brasileria.jpg", dpi = 300)
+plt.savefig(r"graficos\populacao_brasileria.jpg", dpi = 300)

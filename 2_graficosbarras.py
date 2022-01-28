@@ -24,3 +24,4 @@ plt.legend() #mostrando a leganda no gráfico
 
 #mostrando o grafico
 plt.show()
+plt.savefig(r"graficos\grafico_barras.png", dpi = 300) #imagem em alta resolução

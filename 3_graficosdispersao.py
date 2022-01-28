@@ -24,8 +24,8 @@ plt.legend()
 plt.show()
 
 #salvando o grafico
-plt.savefig("graficos\grafico_pontos.png", dpi = 300) #imagem em alta resolução
-plt.savefig("graficos\grafico_pontos.pdf")
+plt.savefig(r"graficos\grafico_pontos.png", dpi = 300) #imagem em alta resolução
+plt.savefig(r"graficos\grafico_pontos.pdf")
 
 """
 Documentação oficial do Matplotlib

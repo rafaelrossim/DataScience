@@ -19,3 +19,4 @@ plt.plot(x, y)
 
 #mostrando o grafico
 plt.show()
+plt.savefig(r"graficos\grafico_linhas.png", dpi = 300) #imagem em alta resolução
