@@ -4,7 +4,7 @@
 import matplotlib.pyplot as plt
 
 #variaveis
-dados = open("data\populacao_brasileira.csv").readlines()
+dados = open("data\populacaobr\populacao_brasileira.csv").readlines()
 x = [] #ano
 y = [] #populacao
 
