@@ -2,8 +2,9 @@
 import matplotlib.pyplot as plt
 
 #variaveis
-x=[1, 2, 5]
-y=[3, 4, 7]
+x = [1, 2, 5]
+y = [3, 4, 7]
+
 titulo = "Graficos em linhas"
 eixox = "eixo X"
 eixoy = "eixo Y"
