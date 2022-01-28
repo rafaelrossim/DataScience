@@ -1,5 +1,4 @@
 #importacões de libs
-from cProfile import label
 import matplotlib.pyplot as plt
 
 #variaveis
